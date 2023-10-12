@@ -70,11 +70,25 @@
     "text": "Meals\nLunch and refreshments will be provided to attendees on all four days of the conference (2-5 July) at the conference venue (included in registration fees).\nFor other meals, there are diverse options available in the many restaurants nearby in Parnell. Alternatively the suburb of Newmarket and the Auckland CBD and waterfront have an even wider array of food options, both within 30 mins walk or a short Uber ride."
   },
   {
-    "objectID": "notices.html",
-    "href": "notices.html",
+    "objectID": "notices.html#announcements",
+    "href": "notices.html#announcements",
     "title": "Notices",
-    "section": "",
-    "text": "IASE 2024 Roundtable Conference\n      Connecting data and people for inclusive statistics and data science education\n      2 - 5 July 2024, Tāmaki Makaurau | Auckland, Aotearoa New Zealand\n    \n  \n\n\n\n\nTo be updated\n\n\n\n\nFor questions or comments, contact iase2024.roundtable@gmail.com"
+    "section": "Announcements",
+    "text": "Announcements\nTo be updated"
+  },
+  {
+    "objectID": "notices.html#author-resources",
+    "href": "notices.html#author-resources",
+    "title": "Notices",
+    "section": "Author resources",
+    "text": "Author resources\nTo be updated"
+  },
+  {
+    "objectID": "notices.html#conference-resources",
+    "href": "notices.html#conference-resources",
+    "title": "Notices",
+    "section": "Conference resources",
+    "text": "Conference resources\nTo be updated"
   },
   {
     "objectID": "program.html",
@@ -95,7 +109,7 @@
     "href": "themes.html#conference-theme",
     "title": "Theme & papers",
     "section": "Conference theme",
-    "text": "Conference theme\nThe overall theme of the conference is Connecting data and people for inclusive statistics and data science education.\nGiven that the creation and use of data is a human-driven process, this conference aims to discuss the inclusivity of the teaching and learning experiences for both students and teachers within statistics and data science. By exploring of the many ways data and people are connected, it is hoped we can generate inclusive approaches that support students with diverse needs and physical challenges, acknowledge and validate cultural knowledges related to data, address the impact of social and economic factors, and inform the design of digital tools or resources and modern learning environments.\nThrough a mixture of formats including extensive discussions in small groups, the meeting will advance current knowledge about conceptual frameworks, teaching methods, technology solutions, and curricular materials. There will be between four to six topic groups that explore areas within the overall theme.\nTopics to be updated"
+    "text": "Conference theme\nThe overall theme of the conference is Connecting data and people for inclusive statistics and data science education.\nGiven that the creation and use of data is a human-driven process, this conference aims to discuss the inclusivity of the teaching and learning experiences for both students and teachers within statistics and data science. By exploring of the many ways data and people are connected, it is hoped we can generate inclusive approaches that:\n\nsupport students with diverse needs and physical challenges,\nacknowledge and validate indigenous and cultural knowledges related to data,\naddress the impact of social and economic factors,\nconsider creative ways to support learners within under resourced contexts,\nchallenge the status quo and inherent biases,\ntake an interdisciplinary perspective,\ninform the design of digital tools or resources, tasks, and modern learning - environments, and\ntake a humanistic stance.\n\nThrough a mixture of formats including extensive discussions in small groups, the meeting will advance current knowledge about conceptual frameworks, teaching methods, technology solutions, and curricular materials.\nTopics to be updated"
   },
   {
     "objectID": "themes.html#key-dates",
