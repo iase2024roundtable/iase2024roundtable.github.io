@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "0d357dcc"
+  },
+  "about.qmd": {
+    "about.html": "781a1b29"
+  },
+  "local.qmd": {
+    "local.html": "f035908e"
+  },
+  "themes.qmd": {
+    "themes.html": "d9ee9cbd"
+  },
+  "notices.qmd": {
+    "notices.html": "923ff857"
+  },
+  "programme.qmd": {
+    "programme.html": "81a5a2b5"
+  },
+  "registration.qmd": {
+    "registration.html": "f969bf86"
+  },
+  "program.qmd": {
+    "program.html": "c4bc3b91"
+  }
+}

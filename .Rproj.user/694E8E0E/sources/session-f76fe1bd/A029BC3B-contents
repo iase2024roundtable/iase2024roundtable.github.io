@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "IASE 2024 Roundtable Conference"
+  favicon: images/iase-icon.png
+  search: false
+  body-footer: "<div class='footsy'>For questions or comments, contact <a href='mailto:iase2024.roundtable@gmail.com'>iase2024.roundtable@gmail.com</a></div>"
+  navbar:
+    title: false
+    background: success
+    left:
+      - text: "Home"
+        file: index.qmd
+      - themes.qmd
+      - programme.qmd
+      - about.qmd
+      - text: "Local info"
+        file: local.qmd
+      - registration.qmd
+      - notices.qmd
+      
+format:
+  html:
+    include-in-header: extra_code.html
+    include-before-body: header.html
+    theme: flatly.scss
+    css: styles.css
+    mainfont: Tahoma
+    page-layout: full
+
+
+

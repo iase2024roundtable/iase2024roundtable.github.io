@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "teaching statistics is awesome"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+  google-analytics: "G-K2H3V17WL3"
+ 
+format:
+  html:
+    theme: theme.scss
+    css: styles.css
