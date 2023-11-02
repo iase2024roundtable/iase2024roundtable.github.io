@@ -42,6 +42,17 @@
   font-weight: normal;
 }
 
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr; /* Single column for screens with a max-width of 768px */
+  }
+  
+   .conf-header .grid img {
+    max-width: 100px;
+    height: auto; /* To maintain aspect ratio */
+  }
+}
+
 .navbar {
   text-transform: uppercase;
 }

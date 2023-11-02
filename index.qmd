@@ -1,5 +1,5 @@
 ---
-title: "Kia ora tatou! Welcome everyone!"
+title: "Kia ora tātou! Welcome everyone!"
 ---
 
 ## Introduction

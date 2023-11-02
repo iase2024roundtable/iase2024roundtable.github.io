@@ -13,7 +13,8 @@ title: "About the roundtable conference"
 - Pip Arnold (New Zealand)
 - Ana Luisa Gomez Blancarte (Mexico)
 - Felipe Ruz (Chile)
-- Olushina Olawale Awe (Nigeria)
+- Olushina Olawale Awe (The Netherlands)
+- Hizir Sofyan (Indonesia)
 
 
 ## Local Organising Committee (Aotearoa New Zealand)
@@ -38,3 +39,4 @@ We gratefully acknowledge the support of the following organisations:
 
  - The [International Statistical Institute (ISI)](https://www.isi-web.org/)
  - The [Te Kura Tatauranga | Department of Statistics, Waipapa Taumata Rau | University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html)
+ - The [New Zealand Statistical Association (NZSA)](https://www.stats.org.nz/)
