@@ -42,6 +42,21 @@
   font-weight: normal;
 }
 
+.highlight {
+  border: solid #1E3765 1px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.banner {
+  border: solid #1E3765 1px;
+  background-color: #1E3765;
+  padding: 10px;
+  margin-bottom: 0px;
+  color: white;
+}
+
 @media (max-width: 768px) {
   .grid {
     grid-template-columns: 1fr; /* Single column for screens with a max-width of 768px */

@@ -5,6 +5,7 @@ title: "Notices"
 ## Announcements
 
 - [First announcement](refs/IASE_2024_roundtable_conference_announcement.pdf)
+- [Call for submissions (updated 1st Dec 2023)](refs/IASE_2024_roundtable_conference_call_for_submissions.pdf)
 
 ## Author resources
 

@@ -32,9 +32,11 @@ This topic will consider questions such as: How do we design learning experience
 
 ## Key dates
 
--   **1 December 2023** - Paper and workshop submissions due
+<mark>Note that the due dates for paper and workshop submissions have been extended from the dates provided in the [initial call for submissions](refs/IASE_2024_roundtable_conference_call_for_submissions.pdf).</mark>
 
--   **15 December 2023** - Notification of provisional acceptance of papers or workshops
+-   **15 December 2023** - Paper and workshop submissions due
+
+-   **5 January 2024** - Notification of provisional acceptance of papers or workshops
 
 ---
 
@@ -60,4 +62,11 @@ This topic will consider questions such as: How do we design learning experience
 
 ## Papers, workshops, and posters
 
-The IASE 2024 Roundtable is now accepting applications for contributions in the form of papers, workshops, posters and discussant leaders that fit the theme **Connecting data and people for inclusive statistics and data science education** and that address one of six topics described above. Please [use this Google form](https://forms.gle/Mt7uXxpkrvALT2QV7) to make your submission.
+The IASE 2024 Roundtable is now accepting applications for contributions in the form of papers, workshops, posters and discussant leaders that fit the theme **Connecting data and people for inclusive statistics and data science education** and that address one of six topics described above. 
+
+* For a **paper**, the submission will require a detailed description of the planned paper (ca. 300 words) including the following sections: Purpose, Design/Methodology, Results/Outcomes, Implications for theory and practice, and Contribution to the theme of the Roundtable and its topics.
+* For a **workshop**, the submission will require a detailed description of the workshop (ca. 300 words) including the following sections: Purpose, Learning objectives, Key learning activities, Implications for theory and practice, and Contribution to the theme of the Roundtable and its topics.
+* For a **poster**, the submission will require a detailed description of the planned poster (ca. 300 words) including the following sections: Purpose, Design/ Methodology, Results/Outcomes, Implications for theory and practice, and Contribution to the theme of the Roundtable and its topics.
+* For a **discussant leader**, the submission will require an extended description of relevant background and interest (200-300 words). 
+
+Please [use this Google form](https://forms.gle/Mt7uXxpkrvALT2QV7) to make your submission.
