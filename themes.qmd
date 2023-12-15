@@ -34,29 +34,21 @@ This topic will consider questions such as: How do we design learning experience
 
 <mark>Note that the due dates for paper and workshop submissions have been extended from the dates provided in the [initial call for submissions](refs/IASE_2024_roundtable_conference_call_for_submissions.pdf).</mark>
 
--   **15 December 2023** - Paper and workshop submissions due
-
--   **5 January 2024** - Notification of provisional acceptance of papers or workshops
+-   **5 January 2024** - Paper/workshop/poster/discussant submissions due
 
 ---
 
--   **5 January 2024** - Poster and discussant submissions due
+-   **9 February 2024** - Notification of paper/workshop/poster/discussant acceptance
 
 ---
 
--   **9 February 2024** - First draft of workshop plan due
+-   **15 March 2024** - First draft of workshop plan or full six-page paper due
 
--   **23 February 2024** - First draft of full six-page paper due
-
----
-
--   **23 February 2024** - Notification of workshop/poster/discussant acceptance
-
--   **15 March 2024** - Notification of paper acceptance
+-   **24 May 2024** - Paper authors receive peer-review feedback
 
 ---
 
--   **7 June 2024** - Paper for conference due
+-   **21 June 2024** - Paper for conference due
 
 -   **31 October 2024** - Final paper for publication due
 
