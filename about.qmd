@@ -5,7 +5,8 @@ title: "About the roundtable conference"
 ## International Program Committee (IPC)
 
 - Travis Weiland (USA), Chair of the International Program Committee
-- TBC, Editor of Proceedings
+- Karsten Lüebke (Germany), Co-editor of Proceedings
+- Jennifer Kaplan (USA), Co-editor of Proceedings 
 - Dani Ben-Zvi (Israel), President, IASE
 - Ayse Bilgin (Australia), Past-President, IASE
 - Alejandra Sorto (USA), President-Elect, IASE
@@ -40,3 +41,22 @@ We gratefully acknowledge the support of the following organisations:
  - The [International Statistical Institute (ISI)](https://www.isi-web.org/)
  - The [Te Kura Tatauranga | Department of Statistics, Waipapa Taumata Rau | University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html)
  - The [New Zealand Statistical Association (NZSA)](https://www.stats.org.nz/)
+ 
+::: grid
+
+::: g-col-3
+
+![](images/isi-logo.png)
+:::
+::: g-col-3
+
+![](images/iase-logo.gif)
+:::
+::: g-col-3
+
+![](images/stats_dept.png)
+:::
+::: g-col-3
+![](images/nzsa.png)
+:::
+:::

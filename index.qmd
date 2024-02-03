@@ -22,7 +22,7 @@ We invite you to participate in this roundtable conference, to join us in sharin
 
 It is possible to participate in the Roundtable in one of four roles: Paper presenter, Workshop organiser, Poster presenter; or Discussant leader. Papers are submitted and shared before the conference, and roundtables are (literally) formed for discussions and constructive feedback during the conference. Workshops and poster presentations provide further opportunities for discussing and reflecting on statistics and data science education. Discussant leaders should be statistics educators at any level, developers of educational technology, developers of statistics curricula, students of statistics education, or scholars in education or statistics with experience in statistics education.
 
-::: highlight
+::: {.callout-note appearance='simple'}
 The IASE 2024 Roundtable is an in-person conference where all participants assume one of four roles: Paper presenter, Workshop organiser, Poster presenter; or Discussant leader. The program has not been finalised but sessions will be held between 9am NZT and 5pm NZT on each of the four days of the conference. Participants are expected to attend and contribute to all sessions, working together over the four days to support and advance knowledge about conceptual frameworks, teaching methods, technology solutions, and curricular materials.
 
 We understand that some participants may not be able to participate in the conference in person. For this reason, we will consider a virtual option for a small number of participants who wish to present a paper or poster. Participants under this virtual option, if offered, will be expected to attend and engage in all sessions and discussions (see program times above) in line with the goals of a roundtable. Registration fees for virtual participants will be adjusted accordingly. You can indicate your interest for this virtual option in the submission form. 
@@ -34,14 +34,14 @@ We are now accepting applications for contributions to the IASE 2024 Roundtable.
 
 The IASE Roundtable comes just before the [15th International Congress on Mathematical Education](https://icme15.org/).
 
-![](images/icme.png)
-
+<img src='images/icme.png' width='50%'>
 
 ## Sponsors
 
 We gratefully acknowledge the support and sponsorship of the following organisations:
 
 - The [International Statistical Institute (ISI)](https://www.isi-web.org/)
+- The [Department of Statistics | Te Kura Tatauranga](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html) at the [University of Auckland | Waipapa Taumata Rau](https://auckland.ac.nz)
 - The [New Zealand Statistical Association](https://www.stats.org.nz/)
 
 ::: grid
@@ -50,11 +50,13 @@ We gratefully acknowledge the support and sponsorship of the following organisat
 
 ![](images/isi-logo.png)
 :::
+
 ::: g-col-4
 
+![](images/stats_dept.png)
 :::
-::: g-col-4
 
+::: g-col-4
 ![](images/nzsa.png)
 :::
 :::

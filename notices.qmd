@@ -9,8 +9,6 @@ title: "Notices"
 
 ## Author resources
 
-*To be updated*
-
-## Conference resources
-
-*To be updated*
+::: {.callout-note appearance='simple'}
+Information and templates for papers/posters will be made available here once participants have been notified about paper/workshop/poster/discussant acceptance.
+:::

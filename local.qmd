@@ -4,7 +4,14 @@ title: "Local information"
 
 ## Venue
 
-*To be updated*
+The conference will be hosted by the [Department of Statistics | Te Kura Tatauranga at the University of Auckland | Waipapa Taumata Rau](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html) within the Science Centre, Building 303 (38 Princes St, Auckland CBD).
+
+![](images/science_centre.jpg)
+
+Explore the embedded map below:
+
+<div class="iframe-container">
+<iframe src="https://www.google.com/maps/d/embed?mid=1eRMvxywnDFfv0-lk9Rpqiy0vA13kY7A&hl=en&ehbc=2E312F" class="responsive-iframe"></iframe>
 
 ## Visas
 
@@ -16,10 +23,22 @@ To find out if you need a visa to enter New Zealand and for information on the v
 
 ## Accommodation
 
-*To be updated*
+There are a number of options for accommodation close to the University of Auckland Science Centre, which is located within the Auckland CBD. Some recommendations are below:
+
+### [Copthorne Hotel Auckland City](https://www.millenniumhotels.com/en/auckland/copthorne-hotel-auckland-city/)
+
+The [Copthorne Hotel](https://www.millenniumhotels.com/en/auckland/copthorne-hotel-auckland-city/) is 10 minute walk from the conference venue, and currently has rooms available from NZD$105 per night.
+
+Contact details: 150 Anzac Avenue, P.O. Box 3272, Auckland CBD, New Zealand 1010 | +64 9 379 8509 | copthorne.aucklandcity@millenniumhotels.co.nz
+
+### [Quadrant Hotel & Suites](https://vrhotels.co.nz/quadrant-hotels-suites/)
+
+The [Quadrant Hotel & Suites](https://vrhotels.co.nz/quadrant-hotels-suites/) is 10 minute walk from the conference venue, and currently has rooms available from NZD$165 per night (prepaid/VR member).
+
+Contact details: 10 Waterloo Quadrant, Auckland CBD, New Zealand 1010 | +64 9 984 6000 | quad.reservations@vrhotels.co.nz
 
 ## Meals
 
 Lunch and refreshments will be provided to attendees on all four days of the conference (2-5 July) at the conference venue (included in registration fees). 
 
-For other meals, there are diverse options available in the many restaurants nearby in Parnell. Alternatively the suburb of Newmarket and the Auckland CBD and waterfront have an even wider array of food options, both within 30 mins walk or a short Uber ride.
+For other meals, there are diverse options available in the many restaurants located within the Auckland CBD and down at the waterfront. The inner city suburbs of Newmarket, Parnell, Mt Eden, and Ponsonby are also well known for their cuisine.
