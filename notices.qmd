@@ -9,6 +9,5 @@ title: "Notices"
 
 ## Author resources
 
-::: {.callout-note appearance='simple'}
-Information and templates for papers/posters will be made available here once participants have been notified about paper/workshop/poster/discussant acceptance.
-:::
+- [Guidelines for the preparation of manuscripts](refs/IASE_2024_roundtable_guidelines_preparation_manuscripts.pdf)
+- [Paper template](refs/IASE_2024_roundtable_paper_template.doc)

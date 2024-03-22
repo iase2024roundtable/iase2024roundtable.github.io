@@ -2,4 +2,48 @@
 title: "Registration"
 ---
 
-*To be updated*
+::: {.callout-note appearance='simple'}
+Registration for the roundtable conference is limited to paper presenters, workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
+:::
+
+## Registration categories
+
+The IASE 2024 Roundtable Conference will be offered in person (Note: a virtual option has been made available to a very small number of participants). There are three registration categories: 1. Members, 2. Non-members, and 3. Reduced fees.
+
+Current members of the ISI or [any of its associations](https://www.isi-web.org/isi-family?type=2) fall into **Category 1 (Members)**; members will be asked to provide their membership number at registration.
+
+Attendees from the following groups are entitled to the reduced fees in **Category 3 (Reduced fees)**: students, primary and secondary school teachers, retired persons, and attendees from [low and middle income countries and regions](https://www.isi-web.org/low-and-middle-income-countries-and-regions). Reduced fees are available regardless of whether the attendee is a member of ISI or its associations.
+
+Anyone who is not a member of the ISI or its associations and does not belong to a reduced fee group falls into **Category 2 (Non-members)**.
+
+## Registration fees
+
+The registration fees for each category are given in the table below. Please make sure you register under the correct category.
+
+| Registration Category | Registration Fee|
+| --------------------- | ----------------|
+|1. Members of ISI or its associations (IASE, IASC, etc.)|255 €|
+|2. Non-Members | 320 € |
+|3. Reduced fees | 120 € |
+
+* All amounts in the table above are in Euros (€).
+* At least one presenting author for any accepted paper, poster or workshop should register and pay the fee by **21 June 2024** for the paper/poster/workshop to be included in the program.
+* The IASE 2024 Roundtable Conference International Program Committee (IPC) & Local Organising Committee (LOC) members are eligible for a 50% discount on registration.
+
+## Important notes
+
+Registration for the roundtable conference is limited to paper presenters, workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
+
+- IN-PERSON registration tickets include in-person admission to all sessions at the University of Auckland, catered lunches and refreshments between sessions, and admission to the conference reception.
+- VIRTUAL registration tickets includes live-streaming and recordings of all sessions.
+- ALL registration tickets include access to all conference materials and publication of your paper/poster in the Proceedings (for authors).
+
+Payments for registration are in EUROS. All payments are made through Oxford Abstracts and processed by Stripe, a PCI DSS Level 1 secure company. The conference organisers will not issue receipts or invoices; registrants will receive a confirmation email from Oxford Abstracts containing a payment summary instead.
+
+There will be no refund on registration payments already made. Further, no switching is permitted between virtual to in-person registration fees, nor in-person to virtual registration fees. However, if you purchase in-person registration you may still participate in the conference virtually.
+
+In the unlikely event of the conference being cancelled by the organiser, a full refund will be made. Liability will be limited to the amount of the fee paid by the delegate and there will not be any additional liability to IASE 2024 Roundtable event hosts, or any other individual associated with the event organisation.
+
+## Registration form
+
+The registration form will be sent to paper, poster and workshop presenters, discussants, and members of the IPC and LOC.

@@ -5,7 +5,7 @@ title: "About the roundtable conference"
 ## International Program Committee (IPC)
 
 - Travis Weiland (USA), Chair of the International Program Committee
-- Karsten Lüebke (Germany), Co-editor of Proceedings
+- Karsten Lübke (Germany), Co-editor of Proceedings
 - Jennifer Kaplan (USA), Co-editor of Proceedings 
 - Dani Ben-Zvi (Israel), President, IASE
 - Ayse Bilgin (Australia), Past-President, IASE

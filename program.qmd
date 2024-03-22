@@ -2,4 +2,16 @@
 title: "Program"
 ---
 
-*To be updated*
+The four-day Roundtable will take place from 2 July to 5 July 2024 and focus on a unique theme: "**Connecting data and people for inclusive statistics and data science education**". 
+
+Papers are submitted and shared before the conference and roundtables will be formed for discussions of these papers during the conference. In addition to these roundtables (paper discussion sessions), there will be a keynote, workshop sessions, and a discussant session at the end of the conference.
+
+## Keynote speaker
+
+We are thrilled to announce that the keynote speaker for the IASE 2024 Roundtable is [**Andrew Sporle**](https://healthierlives.co.nz/about-us/science-leadership-team/#mr-andrew-sporle).
+
+::: {.callout-note appearance='simple'}
+Note that the Keynote session is sponsored by the The [New Zealand Statistical Association](https://www.stats.org.nz/).
+
+![](images/nzsa.png)
+:::
