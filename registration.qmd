@@ -3,7 +3,7 @@ title: "Registration"
 ---
 
 ::: {.callout-note appearance='simple'}
-Registration for the roundtable conference is limited to paper presenters, workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
+Registration for the roundtable conference is limited to paper presenters (including co-authors), workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
 :::
 
 ## Registration categories
@@ -32,7 +32,7 @@ The registration fees for each category are given in the table below. Please mak
 
 ## Important notes
 
-Registration for the roundtable conference is limited to paper presenters, workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
+Registration for the roundtable conference is limited to paper presenters (including co-authors), workshop organisers, poster presenters, discussant leaders, keynote speakers and members of the International Program Committee (IPC) & Local Organising Committee (LOC).
 
 - IN-PERSON registration tickets include in-person admission to all sessions at the University of Auckland, catered lunches and refreshments between sessions, and admission to the conference reception.
 - VIRTUAL registration tickets includes live-streaming and recordings of all sessions.
@@ -46,4 +46,4 @@ In the unlikely event of the conference being cancelled by the organiser, a full
 
 ## Registration form
 
-The registration form will be sent to paper, poster and workshop presenters, discussants, and members of the IPC and LOC.
+The registration form will be sent to paper presenters (including co-authors), poster presenters, workshop organisers, discussants, and members of the IPC and LOC.
