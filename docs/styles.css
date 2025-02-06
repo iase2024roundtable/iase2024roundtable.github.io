@@ -6,6 +6,11 @@
   font-size: 0.8em;
 }
 
+.announcement {
+  background-color: #ffee8c;
+  paddding: 10px;
+}
+
 .conf-header {
   background-image: url('images/banner.png');
   background-repeat: no-repeat;
